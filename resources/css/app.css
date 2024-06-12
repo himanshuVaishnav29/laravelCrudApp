@@ -1,0 +1,15 @@
+input,button{
+    border: 1px solid black;
+}
+button{
+    cursor: pointer;
+}
+form{
+    margin-top:40px; 
+}
+.mainTableDiv{
+    margin-top: 50px;
+}
+*{
+    background-color: aqua;
+}
